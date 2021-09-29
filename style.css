@@ -19,7 +19,7 @@ div.http-status {
     text-align: center;
 }
 div.http-status > img {
-    max-width: 500px;
+    max-width: 100%;
     border: 1px solid #1B3F5C;
     box-shadow: 0 0 35px #1B3F5C;
 }
